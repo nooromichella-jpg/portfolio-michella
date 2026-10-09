@@ -59,10 +59,10 @@ export default function Navbar() {
           className="flex items-center gap-2 group"
         >
           <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center text-white font-bold text-lg shadow-modern group-hover:shadow-modern-lg transition-all">
-            M
+            N
           </div>
           <span className="font-bold text-lg text-gray-800 hidden sm:block">
-            Michella<span className="text-primary">.</span>
+            Nooro<span className="text-primary">.</span>
           </span>
         </motion.a>
 

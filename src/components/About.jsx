@@ -46,7 +46,7 @@ export default function About() {
             <p>
               Je suis <strong className="text-gray-900">RANDRIAMIHAJA Michella Nooro</strong>,
               étudiante en 2ème année d'informatique à l'UPH (Université Privée
-              d'Hauteville), à Antananarivo, Madagascar.
+              Hay), à Antananarivo, Madagascar.
             </p>
 
             <p>
